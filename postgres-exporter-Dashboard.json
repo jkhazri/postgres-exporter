@@ -3688,8 +3688,8 @@
       {
         "current": {
           "selected": false,
-          "text": "185.211.155.247:9187",
-          "value": "185.211.155.247:9187"
+          "text": "**.**.**.**:9187",
+          "value": "**.**.**.**:9187"
         },
         "datasource": {
           "type": "prometheus",
